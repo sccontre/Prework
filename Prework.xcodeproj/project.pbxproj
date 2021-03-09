@@ -84,6 +84,7 @@
 				66E1496825F70C6400F2F945 /* PreworkTests */,
 				66E1497325F70C6400F2F945 /* PreworkUITests */,
 				66E1495025F70C6100F2F945 /* Products */,
+				66E1498525F7579F00F2F945 /* README.md */,
 			);
 			sourceTree = "<group>";
 		};
@@ -107,7 +108,6 @@
 				66E1495B25F70C6400F2F945 /* Assets.xcassets */,
 				66E1495D25F70C6400F2F945 /* LaunchScreen.storyboard */,
 				66E1496025F70C6400F2F945 /* Info.plist */,
-				66E1498525F7579F00F2F945 /* README.md */,
 			);
 			path = Prework;
 			sourceTree = "<group>";
