@@ -31,7 +31,7 @@ Here's a walkthrough of implemented user stories:
 ![](https://i.imgur.com/Qc9llSo.gif)
 
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+GIF created with [QuickTime](https://support.apple.com/guide/quicktime-player/welcome/mac).
 
 ## Notes
 
